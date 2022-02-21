@@ -10,4 +10,4 @@
 ##### © 2022 Bản quyền thuộc về Thinh.Tran | fb/thinhtrant | tranthinh5801@gmail.com
 
 ### Screenshots:
-![DDT, TDD screenshot](math-util/screenshots/DDT with TDD using junit.png)
+![DDT, TDD screenshot](https://github.com/Thinh-Tran-0902/math-util/blob/main/screenshots/DDT%20with%20TDD%20using%20junit.png)
