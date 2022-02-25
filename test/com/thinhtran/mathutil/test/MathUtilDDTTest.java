@@ -48,10 +48,10 @@ public class MathUtilDDTTest {
         //int a[4] = {2, 4, 6, 8};
         return new Integer[][]{
                                     {0, 1},
-                                    {1, 10}, //co tinh sai
+                                    {1, 1},
                                     {2, 2},
                                     {3,6},
-                                    {6,620}, //co tinh sai
+                                    {6,720},
                                 };
     }
     
