@@ -1,6 +1,4 @@
-[![MathUtility Project using JUnit & CI | © 2022 Bản quyền thuộc về Thinh.Tran | fb/thinhtrant | tranthinh5801@gmail.com]
-(https://github.com/Thinh-Tran-0902/math-util/actions/workflows/mathutil-ci.yml/badge.svg)]
-(https://github.com/Thinh-Tran-0902/math-util/actions/workflows/mathutil-ci.yml)
+[![MathUtility Project using JUnit & CI | © 2022 Bản quyền thuộc về Thinh.Tran | fb/thinhtrant | tranthinh5801@gmail.com](https://github.com/Thinh-Tran-0902/math-util/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/Thinh-Tran-0902/math-util/actions/workflows/mathutil-ci.yml)
 
 # Welcome to Math Utility Repository
 ## In this repo you will find Java library to support the Math caculation
